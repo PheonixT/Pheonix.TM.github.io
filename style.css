@@ -1,5 +1,7 @@
 /*Header section Style*/
-
+html{
+    scroll-behaviour: smooth;
+} 
 .main-header {
     position: sticky;
     top: 0;
